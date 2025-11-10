@@ -1,7 +1,7 @@
 # My Portfolio
 
 Hosted Link : 
-https://portfolio-six-rust-bra5ka8zg8.vercel.app/
+https://vansh-gujral-portfolio.vercel.app/
 
 Run Locally
 
