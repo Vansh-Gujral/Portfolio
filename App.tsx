@@ -21,10 +21,6 @@ const App: React.FC = () => {
 
         <section id="about" className="py-24 px-6 md:px-12 lg:px-24">
           <About />
-        </section>
-
-        <section id="about" className="py-24 px-6 md:px-12 lg:px-24">
-          <About />
           <SystemHealth /> {/* ADD THIS HERE */}
         </section>
 
