@@ -48,7 +48,7 @@ const projects: Project[] = [
     impact: "Scalable feature extraction without human-in-the-loop labeling.",
     tags: ["JEPA", "Self-Supervised", "Research"],
     image: "https://images.unsplash.com/photo-1620712943543-bcc4628c9759?auto=format&fit=crop&q=80&w=800",
-    projectUrl: "#",
+    projectUrl: "https://vl-jepa.streamlit.app/",
     detailedKnowledge: "Based on Yann LeCun's JEPA, this project avoids pixel-level reconstruction by predicting the latent representation of missing video parts. This allows the model to learn high-level semantic features rather than wasting capacity on noise."
   },
   {
