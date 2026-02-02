@@ -64,7 +64,7 @@ export const About: React.FC = () => {
           </div>
 
           <div className="absolute bottom-10 left-10 right-10 p-8 bg-black/60 backdrop-blur-2xl border border-white/5 rounded-3xl">
-            <div className="text-zinc-100 font-bold text-xl mb-1">Lead AI Developer</div>
+            <div className="text-zinc-100 font-bold text-xl mb-1">AI Developer</div>
             <div className="text-zinc-500 text-sm font-mono mb-4 uppercase tracking-widest">Architecting Innovation</div>
             <div className="flex gap-2">
               <div className="h-1 flex-1 bg-zinc-800 rounded-full overflow-hidden">
