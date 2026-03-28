@@ -36,7 +36,7 @@ const projects: Project[] = [
     impact: "Simulated real-world IP workflows, reducing drafting time by over 80%.",
     tags: ["GenAI", "NLP", "LangChain"],
     image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&q=80&w=800",
-    projectUrl: "#",
+    projectUrl: "https://github.com/Vansh-Gujral/AetherIP-AI-Patent-Maker",
     detailedKnowledge: "This tool orchestrates multiple AI agents to handle different patent sections: an 'Inventor Agent' for the summary, a 'Legal Agent' for Claims, and a 'Technical Agent' for System Architecture, ensuring legal-grade documentation."
   },
   {
