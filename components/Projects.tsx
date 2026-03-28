@@ -29,7 +29,7 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "AI Patent Maker",
+    title: "AetherIP",
     description: "Automated multi-agent IP drafting workflow.",
     problem: "Prohibitive costs and complexity for engineers drafting complete patent claims.",
     solution: "A multi-agent LLM system that processes one topic into an entire legal draft.",
